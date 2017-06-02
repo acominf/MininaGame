@@ -3,44 +3,36 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+El objetivo del juego consiste en moverte por los diferentes mundos para agarrar los ítems disponibles, teniendo en cuenta que existen enemigos que trataran de impedirlo.
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+El proyecto se desarrolla en niveles mundos en los cuales el usuario tiene que atrapar  comida(peces, croquetas) para poder sumar puntos tratando de esquivar a sus enemigos los cuales te quitan vidas y comida, para asi hacer más difícil el poder subir de nivel..
+Conforme pasan los niveles la dificultad va en aumento
+
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Personaje
+* Correr
+* LAnzar
+* Tomar
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. Mundo
+* Nivel
+* Información
+* Transladar
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Items
+* sumaPuntaje
+* sumaVidas
+* RestarPuntaje
 
 ### Diagrama de clases
 ![Diagrama de clases](url-del-diagrama.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Xochitl America Rodriguez Villanueva 
+
 
 ### Materia(s)
 - Programación Orientada a Objetos
