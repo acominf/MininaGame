@@ -27,7 +27,7 @@ Conforme pasan los niveles la dificultad va en aumento
 * RestarPuntaje
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+![Diagrama de clases](https://github.com/acominf/MininaGame/blob/master/diagramaClases.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
