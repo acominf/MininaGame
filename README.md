@@ -1,6 +1,6 @@
 # MininaGame
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![MininaGame](https://github.com/acominf/MininaGame/blob/master/MininaGameB/images/Portada.png)
 
 ### Objetivo del juego/aplicación
 El objetivo del juego consiste en moverte por los diferentes mundos para agarrar los ítems disponibles, teniendo en cuenta que existen enemigos que trataran de impedirlo.
